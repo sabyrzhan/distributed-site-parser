@@ -1,4 +1,4 @@
-# distributed-site-parser Project
+# Distributed Site Parser in Quarkus (WIP)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
