@@ -1,5 +1,8 @@
 # Distributed Site Parser in Quarkus (WIP)
 
+## Architecture diagram
+![Service architecture](DistributedParser.drawio.svg)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .

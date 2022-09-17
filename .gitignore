@@ -1,3 +1,6 @@
+# Project specific
+.$DistributedParser*
+
 #Maven
 target/
 pom.xml.tag
